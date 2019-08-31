@@ -1,6 +1,6 @@
 {
   "name": "@extensiblejs/handlers",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A set of handlers used by Extensible.js",
   "main": "index.js",
   "scripts": {
@@ -11,17 +11,19 @@
     "url": "git+https://github.com/extensiblejs/handlers.git"
   },
   "keywords": [
-    "handler",
-    "extensible",
-    "extensiblejs",
-    "helpers",
+    "handlers",
     "utils",
-    "electron"
+    "helpers",
+    "extensible",
+    "extensiblejs"
   ],
-  "author": "Dalton Menezes",
+  "author": "Dalton Menezes <daltonmenezes@outlook.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/extensiblejs/handlers/issues"
   },
-  "homepage": "https://github.com/extensiblejs/handlers#readme"
+  "homepage": "https://github.com/extensiblejs/handlers#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
