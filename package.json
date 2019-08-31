@@ -1,0 +1,27 @@
+{
+  "name": "@extensiblejs/handlers",
+  "version": "1.0.0",
+  "description": "A set of handlers used by Extensible.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extensiblejs/handlers.git"
+  },
+  "keywords": [
+    "handler",
+    "extensible",
+    "extensiblejs",
+    "helpers",
+    "utils",
+    "electron"
+  ],
+  "author": "Dalton Menezes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/extensiblejs/handlers/issues"
+  },
+  "homepage": "https://github.com/extensiblejs/handlers#readme"
+}
