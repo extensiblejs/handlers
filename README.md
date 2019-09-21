@@ -20,7 +20,7 @@
   <a href="https://paypal.me/daltonmenezes">
     <img src="https://img.shields.io/badge/support%20me%20on-paypal-blueviolet?style=flat-square" alt="support me on paypal" />
   </a>
-  <a href="https://github.com/extensiblejs/handlers/blob/master/README.md">
+  <a href="https://github.com/extensiblejs/toolbox/blob/master/README.md">
     <img src="https://img.shields.io/badge/license%20-MIT-blueviolet?style=flat-square" alt="license MIT" />
   </a>
 </p>
