@@ -8,7 +8,7 @@
 <p align="center">
   A set of tools used by <a href="https://github.com/extensiblejs/extensible">Extensible.js</a>
   <br><br>
-  <a href="https://issuehunt.io/r/extensiblejs/handlers">
+  <a href="https://issuehunt.io/r/extensiblejs/toolbox">
     <img src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-blueviolet?style=flat-square" alt="fund issues on issuehunt" />
   </a>  
   <a href="https://www.padrim.com.br/daltonmenezes">
