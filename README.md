@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A set of handlers used by <a href="https://github.com/extensiblejs/extensible">Extensible.js</a>
+  A set of tools used by <a href="https://github.com/extensiblejs/extensible">Extensible.js</a>
   <br><br>
   <a href="https://issuehunt.io/r/extensiblejs/handlers">
     <img src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-blueviolet?style=flat-square" alt="fund issues on issuehunt" />
