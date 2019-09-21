@@ -2,7 +2,7 @@
   <a href="#logo">
     <img id="logo" src="https://i.imgur.com/eIPf5Eo.png" width="150" height="150" alt="Extensible logo" />
   </a>
-  <h1 align="center">handlers</h1>
+  <h1 align="center">toolbox</h1>
 </p>
 
 <p align="center">
